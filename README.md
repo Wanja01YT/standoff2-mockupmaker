@@ -1,5 +1,5 @@
 # Standoff 2 Mockup Maker
-A tool to create mockups of the Standoff 2 UI.
+A tool to create mockups of the Standoff 2 UI. \n
 [Web-Version of the Tool](https://wanja01yt.github.io/standoff2-mockupmaker/)
 
 ### Usage
